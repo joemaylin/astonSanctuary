@@ -1,8 +1,8 @@
 <?php
 
 $localhost = 'localhost';
-$username = 'maylinje';
-$password = 'g7HgJyOF9OhkQk8t';
+$username = 'root';
+$password = '';
 $database = 'astonsanctuary';
 
 $mysqli = new mysqli($localhost, $username, $password, $database);
